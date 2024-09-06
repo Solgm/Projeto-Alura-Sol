@@ -38,3 +38,6 @@ Todo mundo é bem-vindo para contribuir com o projeto! Se você sabe programar, 
 **Dica:** Para rodar a aplicação, basta abrir o arquivo HTML em um navegador. 
 
 **Divirta-se explorando as histórias da FEB!**
+
+Feito na Imersão DEV com o Google Gemini da Alura. 
+06/06/2024
